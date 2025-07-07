@@ -1,1 +1,1 @@
-Recursion under constraint is the engine of self-correcting structural coherence.
+Recursion under constraint generates self-correcting coherence.
